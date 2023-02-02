@@ -1,5 +1,5 @@
 """     
-        Programa6
+        Programa7
         Nombre: Eros YCT
         Fecha: 31/01/2023
         Descripcion: area y perimetro de un Círculo y de un cuadrado
