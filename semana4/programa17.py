@@ -12,11 +12,11 @@ def mayor(numero1,numero2):
         result = numero2
     return result
 
-print(mayor(2,1))
-print(mayor(1,2))
-print(mayor(2,2))
-print(mayor(2,-1))
-print(mayor(-1,2))
-print(mayor(-1,-1))
-print(mayor(-2,-1))
-print(mayor(-1,-2))
+print(mayor(2,1)) # se imprime el numero mayor entre ellos
+print(mayor(1,2)) # se imprime el numero mayor entre ellos
+print(mayor(2,2)) # se imprime el numero mayor entre ellos
+print(mayor(2,-1)) # se imprime el numero mayor entre ellos
+print(mayor(-1,2)) # se imprime el numero mayor entre ellos
+print(mayor(-1,-1)) # se imprime el numero mayor entre ellos
+print(mayor(-2,-1)) # se imprime el numero mayor entre ellos
+print(mayor(-1,-2)) # se imprime el numero mayor entre ellos
